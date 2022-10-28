@@ -109,7 +109,8 @@ button{
     font-size: 20px;
     font-weight: bold;
     border-radius: 6px;
-    border: 2px solid white;
+    border: 2px solid rgb(200, 100, 209);
+    background-color: rgb(197, 22, 168);
 }
 button:hover{
     color: grey;
@@ -128,3 +129,4 @@ button:hover{
     color: white;
     font-size: 20px;
 }
+
